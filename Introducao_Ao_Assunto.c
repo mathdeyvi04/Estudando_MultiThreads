@@ -16,6 +16,8 @@ funcao_a_ser_assincrona(){
 		Encerrei uma thread.
 		
 	Mas sabemos que não é isso.
+	
+	ELAS COMPARTILHAM A MESMA MEMÓRIA.
  	*/
 	
 	printf("Comecei uma thread.\n");
